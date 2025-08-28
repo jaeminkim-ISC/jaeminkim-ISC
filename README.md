@@ -1,3 +1,3 @@
-## I'm currently an Accounting undergrad student at WGU.
+## Accounting undergrad student at WGU.
 
-## Python, MySQL, Data
+## Accounting Information Systems, Internal Controls, (ISC), Managerial Accounting, Python, MySQL, Data, SF Bay Area
